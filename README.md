@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm essesoul</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essesoul&label=Profile%20views&color=0eb44d&style=flat" alt="essesoul" /> </p>
 
