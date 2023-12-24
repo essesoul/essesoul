@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Cloudreve-AfdianPay](https://github.com/essesoul/Cloudreve-AfdianPay)
 
-- 🌱 I’m currently learning **Golang,JAVA**
+- 🌱 I’m currently learning **Golang, JAVA**
 
 - 📝 I regularly write articles on [https://www.essesoul.top/](https://www.essesoul.top/)
 
