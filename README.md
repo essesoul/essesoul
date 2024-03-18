@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.essesoul.top/](https://www.essesoul.top/)
 
-- 📫 How to reach me **Gary@dtnetwork.top**
+- 📫 How to reach me **i@essesoul.top**
 
 
 <h3 align="left">Languages and Tools:</h3>
