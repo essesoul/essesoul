@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang, JAVA**
 
-- 📝 I regularly write articles on [https://www.essesoul.top/](https://www.essesoul.top/)
+<!-- - 📝 I regularly write articles on [https://www.essesoul.top/](https://www.essesoul.top/)-->
 
 - 📫 How to reach me **i@essesoul.top**
 
